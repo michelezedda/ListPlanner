@@ -30,4 +30,5 @@
 
 ## Project Link
 
-You can try ListPlanner by clicking the following link :link: [ListPlanner](https://listplanner.netlify.app/)
+You can try ListPlanner by clicking the following link :link: [ListPlanner](https://listplanner.netlify.app/) <br/>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/488b63d3-858b-4363-b83b-03384cf673c2/deploy-status)](https://app.netlify.com/sites/listplanner/deploys)
