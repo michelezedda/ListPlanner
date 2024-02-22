@@ -2,30 +2,20 @@
   <br>
     <img src="https://i.ibb.co/2g96FD0/Black-and-Gold-Classy-Minimalist-Circular-Name-Logo-1-removebg-preview.png" width="400">
   <br>
-  bookshelf
+  ListPlanner
   <br>
 </h1>
 
-<h2 align="center">Your personal book concierge</h2>
+<h2 align="center">Organize tasks effortlessly</h2>
 
 ## Key Features
 
-- Search by genre: Allow users to get books by genre;
+- Add Button: The "Add" button allows users to quickly input new tasks to their to-do list;
 
-- Book description: Provide a button to view descriptions of selected books;
+- Remove Button: With the "Remove" button, users can effortlessly delete tasks they no longer need;
 
-## How To Use
+- Move Up and Move Down Buttons: The "Move Up" and "Move Down" buttons allow users to reposition tasks within the list with ease. Whether you need to prioritize certain tasks or group related tasks together, ListPlanner makes it simple to adjust the order of your to-do list items.
 
-Using this simple book finder is easy and intuitive. Follow these steps to get started:
-
-```bash
-# Search:
-To search books enter the desired genre type.
-bookshelf will show you a list of books in the selected genre.
-
-# View Descriptions:
-To view a book description, click the "View Description" button.
-bookshelf will show you the selected book description via pop-up.
 ```
 
 ## Technologies Used
@@ -36,9 +26,9 @@ bookshelf will show you the selected book description via pop-up.
 - Git: A version control system for tracking changes and collaborating on projects;
 - GitHub Pages: A platform for hosting and deploying web applications;
 - Node.js: Fast, scalable server-side JavaScript runtime for real-time applications and APIs;
-- Webpack: A JavaScript module bundler optimizing web app assets for improved performance and development workflows;
-- Open Library API: It allows developers to integrate Open Library's data and features into their applications, websites, or services.
+- React: A JavaScript library for building dynamic user interfaces, known for its component-based approach and efficient rendering;
+- Vite: A next-generation front-end dev tool, aiming to improve the developer experience of webpack when it comes to developing JavaScript applications.
 
 ## Project Link
 
-You can try bookshelf by clicking the following link :link: [bookshelf](https://bookshelf-search.netlify.app/)
+You can try ListPlanner by clicking the following link :link: [ListPlanner](https://listplanner.netlify.app/)
