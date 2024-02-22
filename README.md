@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="https://ibb.co/LnFP0LD" width="400">
+    <img src="https://i.ibb.co/2g96FD0/Black-and-Gold-Classy-Minimalist-Circular-Name-Logo-1-removebg-preview.png" width="400">
   <br>
   bookshelf
   <br>
