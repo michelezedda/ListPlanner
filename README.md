@@ -1,8 +1,33 @@
-# React + Vite
+<h1 align="center">
+  <br>
+    <img src="https://i.ibb.co/2g96FD0/Black-and-Gold-Classy-Minimalist-Circular-Name-Logo-1-removebg-preview.png" width="400">
+  <br>
+  ListPlanner
+  <br>
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2 align="center">Organize tasks effortlessly</h2>
 
-Currently, two official plugins are available:
+## Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add Button: The "Add" button allows users to quickly input new tasks to their to-do list;
+
+- Remove Button: With the "Remove" button, users can effortlessly delete tasks they no longer need;
+
+- Move Up and Move Down Buttons: The "Move Up" and "Move Down" buttons allow users to reposition tasks within the list with ease. Whether you need to prioritize certain tasks or group related tasks together, ListPlanner makes it simple to adjust the order of your to-do list items.
+
+
+## Technologies Used
+
+- HTML5 & CSS3: Markup and styling languages for building web pages;
+- Sass: CSS extension language for web development efficiency;
+- JavaScript: A programming language for adding interactivity to web applications;
+- Git: A version control system for tracking changes and collaborating on projects;
+- GitHub Pages: A platform for hosting and deploying web applications;
+- Node.js: Fast, scalable server-side JavaScript runtime for real-time applications and APIs;
+- React: A JavaScript library for building dynamic user interfaces, known for its component-based approach and efficient rendering;
+- Vite: A next-generation front-end dev tool, aiming to improve the developer experience of webpack when it comes to developing JavaScript applications.
+
+## Project Link
+
+You can try ListPlanner by clicking the following link :link: [ListPlanner](https://listplanner.netlify.app/)
